@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VWuyQ6uoF4R8CXSTZoUuAZKjdhSaEJZWrFcUp5NCVwK3K48Za1F9OATkvq70MEeB/n8gZdkBJnRG+Pfp0l8dOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GSI\\Desktop\\sanctionScanner\\sanctionScanner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GSI\\.nuget\\packages\\htmlagilitypack\\1.11.43\\htmlagilitypack.1.11.43.nupkg.sha512",
+    "C:\\Users\\GSI\\.nuget\\packages\\htmlagilitypack.cssselectors.netcore\\1.2.1\\htmlagilitypack.cssselectors.netcore.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
